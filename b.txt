@@ -1,1 +1,1 @@
-cdteste b.txt
+teste b.txt
